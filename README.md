@@ -1,2 +1,2 @@
-# PINN_loudspeaker
-Internship Code for Electroacoustics with Physically Informed Neural Networks
+# Prueba 19/03
+
